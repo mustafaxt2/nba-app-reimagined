@@ -13,6 +13,6 @@ https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/a0168fdf-3e40-
 > Standings
 ![IMG_1804](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/0df2613b-a04c-4483-ac0c-9cd9262753e3)
 > Teams
-![IMG_1806](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/bd924f6c-7ac9-4e39-beaf-64af5242c2ab)
-> Players
 ![IMG_1805](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/e5b13735-019a-48ea-85d4-116b4fed167f)
+> Players
+![IMG_1806](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/bd924f6c-7ac9-4e39-beaf-64af5242c2ab)
