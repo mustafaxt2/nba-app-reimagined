@@ -2,17 +2,17 @@
 + In Development
 # Preview
 https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/a0168fdf-3e40-47d9-86fa-11cd152065d3
-# Home Screen
-![IMG_1800](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/24613165-b45a-4334-873b-d8b073f68ff4)
-# Match Screen
-![IMG_1803](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/f08852f6-1cc5-4bb2-a4b3-f8cd076c4918)
-# Drawer Menu
-![IMG_1801](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/b16436ce-0a35-46e7-ac11-19824c8a0c45)
 # News
-![IMG_1802](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/764e3cd7-9ef5-4895-9a0c-df3868948f04)
+![news](https://github.com/user-attachments/assets/feffde37-e540-42d7-9549-df8763cd050e)
+# Home Screen
+![home](https://github.com/user-attachments/assets/fa24bc35-d28d-4e55-9ee9-703912131368)
+# Match Screen
+![preview](https://github.com/user-attachments/assets/14f3a8dc-b40b-4513-9fc4-9d114f2588c4)
+# Drawer Menu
+![drawer](https://github.com/user-attachments/assets/037fb15c-bcc3-4c04-b093-a97830d4aabd)
 # Standings
-![IMG_1804](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/0df2613b-a04c-4483-ac0c-9cd9262753e3)
+![standings](https://github.com/user-attachments/assets/3e86cfa2-9bbc-47c4-a451-5145d4e56b93)
 # Teams
-![IMG_1805](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/e5b13735-019a-48ea-85d4-116b4fed167f)
+![teams](https://github.com/user-attachments/assets/bb337167-84cc-48b0-bf01-3cb98e2a17ed)
 # Players
-![IMG_1806](https://github.com/mustafaxt2/nba-app-reimagined/assets/112318875/bd924f6c-7ac9-4e39-beaf-64af5242c2ab)
+![players](https://github.com/user-attachments/assets/49f0ba5d-9eb2-4364-8f0a-400a0d79a95c)
